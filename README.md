@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
