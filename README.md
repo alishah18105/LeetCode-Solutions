@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
