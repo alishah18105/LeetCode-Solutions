@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
