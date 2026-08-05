@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/alishah18105/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
